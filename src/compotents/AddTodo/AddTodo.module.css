@@ -1,0 +1,12 @@
+.addTodoForm{
+    padding-top: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+
+}
+
+.btn {
+    margin-left: 12px;
+}
